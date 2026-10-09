@@ -1,12 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My First Cloud Web Page</title>
+<title>My First Cloud Web Page</title>
 </head>
-<body>
-    <h1>My First Cloud Web Page</h1>
-    <p>Welcome to my web page hosted on the cloud!</p>
-    <img src="https://via.placeholder.com/150" alt="Sample Image">
-    <a href="https://www.google.com" target="_blank">Visit Google</a>
+<body style="background-color:#eef3fb; font-family:Arial, sans-serif; text-align:center;">
+
+<h1 style="color:#1a4fd6;">My First Cloud Web Page</h1>
+<p style="color:#333; font-size:18px;">Welcome to my web page hosted on the cloud!</p>
+
+<!-- Bonus 1: more images -->
+<img src="https://picsum.photos/id/10/200/150" alt="Forest">
+<img src="https://picsum.photos/id/20/200/150" alt="Desk">
+<img src="https://picsum.photos/id/30/200/150" alt="Mug">
+
+<h2 style="color:darkgreen;">Useful Links</h2>
+
+<!-- Bonus 2: more links -->
+<p><a href="https://www.google.com" target="_blank">Visit Google</a></p>
+<p><a href="https://github.com" target="_blank">Visit GitHub</a></p>
+<p><a href="https://www.inti.edu.my" target="_blank">Visit INTI</a></p>
+
+<!-- Bonus 3: inline CSS is used in the style="" parts above -->
+<p style="color:red; font-style:italic;">Made by Sukesh</p>
+
 </body>
 </html>
